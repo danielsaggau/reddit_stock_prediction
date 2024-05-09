@@ -1,3 +1,4 @@
+# import packages
 import streamlit as st 
 
 st.sidebar.title("Reddit Stock Trading Analysis")
