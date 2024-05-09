@@ -1,6 +1,8 @@
 # import packages
 import streamlit as st 
 
+# set up header
+
 st.sidebar.title("Reddit Stock Trading Analysis")
 
 ticker = st.sidebar.text_input("Enter Ticker Symbol", value='AAPL')
